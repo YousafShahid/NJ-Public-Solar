@@ -13,7 +13,7 @@ An interactive map of Public solar facilities of New Jersey
 
 <h1>New Jersey Public Solar facilities</h1>
 
-This is a sample map from Course<br/>
+This is a sample map from Course work command line GIS<br/>
 
 <iframe src='nj_public_solar.html' width = '500' height = '500'></iframe><br/>
 
