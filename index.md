@@ -1,7 +1,7 @@
-# Installed Solar capacity and energy consumption comparison between counties of the State of New Jersey<br/>
+# Installed solar capacity and energy consumption comparison between counties of the state of New Jersey<br/>
 #### Muhammad Yousaf Shahid, EJB School of planning and public policy, Rutgers University.
 
-This spatial analysis aims to evaluate and compare the solar capacity deployment and energy consumption per 10,000 residents across different counties in the state of New Jersey, United States. This analysis is used to access highest solar adoption rates between states.
+This spatial analysis aims to evaluate and compare the solar capacity deployment and energy consumption per 10,000 residents across different counties in the state of New Jersey, United States. This analysis is used to access the highest solar adoption rates between states.
 The analysis and associated maps are created by Muhammad Yousaf Shahid, as the final project for the course command line offered as a part of the Master of Public Informatics program at the Rutgers University Edward J. Bloustein School of Planning and Public Policy.
 
 ## STATIC MAPS
@@ -32,6 +32,7 @@ You can also explore [this map as its own web page here](NJ_COMMUNITY_SOLAR.html
 
 
 ### CONCLUSION
+
 From the maps, it can be concluded that Somerset is the only county with the highest bracket of installed solar generation per 10,000 residents, and in terms of energy consumption Essex and Bergen counties has the highest energy consumption per 10,000 residents. Therefore it can be concluded that Somerset has the highest solar share in its total energy consumption, suggesting strong solar PV adoption compared to all other states.
 
 Cape may, Atlantic, and Cumberland have the least energy consumption per 10,000 residents and the lowest solar penetration. 
@@ -46,11 +47,11 @@ The following data sets are used to create these maps:
 
 Solar Photovoltaic (PV) Installations by County in New Jersey acquired from NJGIN open data portal Source: [PV Installations ](https://njogis-newjersey.opendata.arcgis.com/datasets/e3366d6efe9b4b3286db54d63c41ef6a_15/explore), This data set provides information on total installed solar PV capacity by each county. This has been useful to spatially analyze solar energy generation in comparison to total energy consumption. The initial observed unit was Kilowatt (KW) which we have converted into MegaWatt (MW).The data was initially in csv format which was aggregated with NJ counties shape file for mapping purposes. The data set was converted into EPSG 3424 for mapping purposes. The data has no missing or null values. The data set was recently updated on 6/21/2023.
 
-Municipal Energy Use in New Jersey acquired from NJGIN open data portal Source: [Municipal Energy Use ](https://njogis-newjersey.opendata.arcgis.com/maps/c7fac4b6308749f2baa94e87fe4be22e), This data set provides annual energy consumption for the municipalities of New Jersey. From this data, we have calculated county-wise spot energy consumption from annual energy consumption for comaprison with installed solar capacity. The unit of measurement was initially KiloWatt (KW) which for our analysis is converted into MegaWatt (WM).The data was initially in CSV format which was aggregated with NJ counties shape file for mapping purposes.
+Municipal Energy Use in New Jersey acquired from NJGIN open data portal Source: [Municipal Energy Use ](https://njogis-newjersey.opendata.arcgis.com/maps/c7fac4b6308749f2baa94e87fe4be22e), This data set provides annual energy consumption for the municipalities of New Jersey. From this data, we have calculated county-wise spot energy consumption from annual energy consumption for comaprison with installed solar capacity. The unit of measurement was initially KiloWatt (KW) which for our analysis is converted into MegaWatt (WM).The data was initially in CSV format which was aggregated with NJ counties shape file for mapping purposes. The data set was recently updated on 2/7/2023.
 
-New Jersey Community Solar PV Projects acquired from NJGIN open data portal Source: [Community Solar](https://njogis-newjersey.opendata.arcgis.com/datasets/dfa1235ba73b4ff999cc6500647b45a6_26/explore), This data set has been utilized to map community solar projects and provide information for future potential opportunities for solar growth projects. The data was aggregated with NJ counties shape file for mapping purposes. The data was spatially joined from point to ploygon with NJ counties shape file for static mapping for NJ community solar projects. Missing values were shaded with // on the map.
+New Jersey Community Solar PV Projects acquired from NJGIN open data portal Source: [Community Solar](https://njogis-newjersey.opendata.arcgis.com/datasets/dfa1235ba73b4ff999cc6500647b45a6_26/explore), This data set has been utilized to map community solar projects and provide information for future potential opportunities for solar growth projects. The data was aggregated with NJ counties shape file for mapping purposes. The data was spatially joined from point to ploygon with NJ counties shape file for static mapping for NJ community solar projects. Missing values were shaded with // on the map. he data set was recently updated on 3/6/2023.
 
-Population and income data sets have been acquired  from acs survey through census API Source: [CENSUS](https://www.census.gov/programs-surveys/acs/data.html). These data sets have been used to calculate solar generation per 10,000 residents and energy consumption per 10,000 residents. Income per capita is used to conclude the energy consumption trend between counties.
+Population and income data sets have been acquired  from acs survey through census API Source: [CENSUS](https://www.census.gov/programs-surveys/acs/data.html). These data sets have been used to calculate solar generation per 10,000 residents and energy consumption per 10,000 residents. Income per capita is used to conclude the energy consumption trend between counties. Data is from acs year 2019.
 
 
 
