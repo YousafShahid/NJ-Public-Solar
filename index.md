@@ -12,11 +12,11 @@ The analysis and associated maps are created by Muhammad Yousaf Shahid, as the f
 
 ### TOTAL ENERGY CONSUMPTION
 
-<iframe src="Energy_Consumption.png" width = "4215" height = "2421"></iframe><br/>
+<iframe src="Energy_Consumption.png" width = "1035" height = "1020"></iframe><br/>
 
 ### NJ INCOME PER CAPITA
 
-<iframe src="NJ_INCOME PER CAPITA.png" width = "4215" height = "2421"></iframe><br/>
+<iframe src="NJ_INCOME PER CAPITA.png" width = "1035" height = "1020"></iframe><br/>
 
 ### NJ COMMUNITY SOLAR PROJECTS
 
