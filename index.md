@@ -6,9 +6,11 @@ The analysis and associated maps are created by Muhammad Yousaf Shahid, as final
 
 ### STATIC MAPS
 
-<iframe src="SOLAR_VS_ENERGY _COMPARISON.png" width = "500" height = "500"></iframe><br/>
+<iframe src="SOLAR_EC.png" width = "1020" height = "1000"></iframe><br/>
 
-<iframe src="COMMUNITY_SOLAR.png" width = "1020" height = "1000"></iframe><br/>
+<iframe src="INCOME_SOLAR.png" width = "1035" height = "1020"></iframe><br/>
+
+
 
 ### INTERACTIVE MAPS
 
