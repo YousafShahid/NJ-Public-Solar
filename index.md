@@ -7,9 +7,9 @@ The analysis and associated maps are created by Muhammad Yousaf Shahid, as the f
 ## STATIC MAPS
 
 ### SOLAR INSTALLED CAPACITY 
-<iframe src="SOLAR_EC.png" width = "1035" height = "1020"></iframe><br/>
+<iframe src="SOLAR_EC.png" width = "500" height = "292"></iframe><br/>
 
-<iframe src="SOLAR_CAPACITY.png" width = "1035" height = "1020"></iframe><br/>
+<iframe src="SOLAR_CAPACITY.png" width = "600" height = "1020"></iframe><br/>
 
 ### TOTAL ENERGY CONSUMPTION
 
