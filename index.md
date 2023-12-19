@@ -1,14 +1,14 @@
-# Installed Solar capacity and energy consumption comparison between counties of State of New Jersey<br/>
+# Installed Solar capacity and energy consumption comparison between counties of the State of New Jersey<br/>
 #### Muhammad Yousaf Shahid, EJB School of planning and public policy, Rutgers University.
 
 This spatial analysis aims to evaluate and compare the solar capacity deployment and energy consumption per 10,000 residents across different counties in the state of New Jersey, United States.
-The analysis and associated maps are created by Muhammad Yousaf Shahid, as final project for the course command line offered as a part of Master of Public Informatics program at the Rutgers University Edward J. Bloustein School of Planning and Public Policy.
+The analysis and associated maps are created by Muhammad Yousaf Shahid, as the final project for the course command line offered as a part of the Master of Public Informatics program at the Rutgers University Edward J. Bloustein School of Planning and Public Policy.
 
 ### STATIC MAPS
 
-<iframe src="SOLAR_EC.png" width = "1020" height = "1000"></iframe><br/>
+<iframe src="SOLAR_VS_ENERGY _COMPARISON.png" width = "4215" height = "2421"></iframe><br/>
 
-<iframe src="INCOME_SOLAR.png" width = "1035" height = "1020"></iframe><br/>
+<iframe src="COMMUNITY_SOLAR.png" width = "1035" height = "1020"></iframe><br/>
 
 
 
